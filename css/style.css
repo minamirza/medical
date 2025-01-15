@@ -99,3 +99,12 @@ nav {
 #slideimg5 {
     background-image: url('../img/sliderImg5.png');
 }
+
+@media screen (max-widht:1200px){
+    .container {
+        width: 100%;
+        margin: 10 auto;
+        overflow-x: hidden;
+    }
+    
+}
